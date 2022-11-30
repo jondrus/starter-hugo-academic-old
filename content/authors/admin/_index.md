@@ -69,7 +69,7 @@ email: ""
 #user_groups:
 #- Researchers
 #- Visitors
-#---
+---
 
 Jan Ondrus is Associate Professor of Information Systems and currently heading the [ESSEC Digital Disruption Chair](https://www.google.com/url?q=https%3A%2F%2Fdigital-disruption-chair.essec.edu%2F&sa=D&sntz=1&usg=AOvVaw1BSH92ECMG1uvO_Q0ZMqqf). He holds an MSc and a PhD in Information Systems from HEC Lausanne (University of Lausanne) in Switzerland.
 {style="text-align: justify;"}
