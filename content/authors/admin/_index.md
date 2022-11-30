@@ -43,8 +43,8 @@ education:
       institution: University of Lausanne, HEC, Switzerland
       year: 2003
 superuser: true
-status:
-  icon: ☕️
+#status:
+#  icon: ☕️
 last_name: Ondrus
 highlight_name: true
 first_name: Jan
