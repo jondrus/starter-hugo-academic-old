@@ -60,9 +60,9 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
 Jan Ondrus is Associate Professor of Information Systems and currently heading the ESSEC Digital Disruption Chair. He holds an MSc and a PhD in Information Systems from HEC Lausanne (University of Lausanne) in Switzerland.
