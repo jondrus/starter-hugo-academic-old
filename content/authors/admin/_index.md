@@ -39,15 +39,15 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
- - icon: envelope
-    icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/janondrus
-    label: Follow me on Twitter
-    display:
-      header: false
+# - icon: envelope
+#    icon_pack: fas
+#    link: /#contact
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/janondrus
+#    label: Follow me on Twitter
+#    display:
+#      header: false
   - icon: graduation-cap
     icon_pack: fas
     link: http://scholar.google.com/citations?user=nlFH5o4AAAAJ&hl=en
@@ -63,11 +63,9 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-#user_groups:
-#- Researchers
-#- Visitors
+user_groups:
+- Researchers
+- Visitors
 ---
 
 Jan Ondrus is Associate Professor of Information Systems and currently heading the ESSEC Digital Disruption Chair. He holds an MSc and a PhD in Information Systems from HEC Lausanne (University of Lausanne) in Switzerland.
-
-
