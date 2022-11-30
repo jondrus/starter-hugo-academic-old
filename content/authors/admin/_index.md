@@ -1,6 +1,7 @@
 ---
 title: Jan Ondrus
 role: Associate Professor of Information Systems
+avatar_filename: janondrus.jpg
 bio: My research examines the strategic role of information technology in the
   development of digital ecosystems. I am particularly interested in the
   disruptive and transformative aspect of digital technology for business model
