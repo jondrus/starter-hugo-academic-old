@@ -42,28 +42,18 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:justin_dong@brown.edu'  # For a direct email link, use "mailto:justin_dong@brown.edu".
+  link: 'mailto:ondrus@essec.edu'  # For a direct email link, use "mailto:ondrus@essec.edu".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=hWo81F0AAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/jdongg
+  link: [https://scholar.google.com/citations?user=hWo81F0AAAAJ&hl=en](https://scholar.google.com/citations?user=nlFH5o4AAAAJ&hl=en)
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/jdongg
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
   icon_pack: ai
   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-  
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
----
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
