@@ -1,19 +1,48 @@
 ---
-title: Jan Ondrus
-role: Associate Professor of Information Systems
-avatar_filename: janondrus.jpg
+# Display name
+name: Jan Ondrus
+
+# Username (this should match the folder name)
+authors:
+- admin
+
+# Is this the primary user of the site?
+superuser: true
+
+# Role/position
+role: Associate Professor in Information Systems
+
+# Organizations/Affiliations
+organizations:
+- name: ESSEC Business School
+  url: ""
+
+# Short bio (displayed in user profile at end of posts)
 bio: My research examines the strategic role of information technology in the
   development of digital ecosystems. I am particularly interested in the
   disruptive and transformative aspect of digital technology for business model
   innovation and social impact. Also, I have been specifically studying the
   emergence of mobile payment platforms for more than 15 years.
+
 interests:
-  - Digital Business Models & Innovation
-  - Digital Disruption & IT Strategy
-  - Digital Platform & Ecosystem Strategy
-  - Mobile Payments & FinTech
-social:
-  - icon: envelope
+  - Digital Business Models and Innovation
+  - Digital Disruption and IT Strategy
+  - Digital Platform and Ecosystem Strategy
+  - Mobile Payments and FinTech
+education:
+  courses:
+    - course: PhD in Information Systems
+      institution: University of Lausanne, HEC, Switzerland
+      year: 2007
+    - course: MSc in Information Systems
+      institution: University of Lausanne, HEC, Switzerland
+      year: 2003
+
+# Social/Academic Networking
+# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+ - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
@@ -31,23 +60,17 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
-organizations:
-  - name: ESSEC Business School
-    url: https://www.essec.edu/
-education:
-  courses:
-    - course: PhD in Information Systems
-      institution: University of Lausanne, HEC, Switzerland
-      year: 2007
-    - course: MSc in Information Systems
-      institution: University of Lausanne, HEC, Switzerland
-      year: 2003
-superuser: true
-last_name: Ondrus
-highlight_name: true
-first_name: Jan
-email: ondrus@essec.edu
----
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ""
+  
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.  
+#user_groups:
+#- Researchers
+#- Visitors
+#---
+
 Jan Ondrus is Associate Professor of Information Systems and currently heading the [ESSEC Digital Disruption Chair](https://www.google.com/url?q=https%3A%2F%2Fdigital-disruption-chair.essec.edu%2F&sa=D&sntz=1&usg=AOvVaw1BSH92ECMG1uvO_Q0ZMqqf). He holds an MSc and a PhD in Information Systems from HEC Lausanne (University of Lausanne) in Switzerland. t4
 {style="text-align: justify;"}
 
