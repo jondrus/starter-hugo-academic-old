@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Jan Ondrus
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Jan
+last_name: Ondrus
 
 # Status emoji
 status:
@@ -14,34 +14,32 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Associate Professor of Information Systems
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: ESSEC Business School
+    url: https://www.essec.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research examines the strategic role of information technology in the development of digital ecosystems. I am particularly interested in the disruptive and transformative aspect of digital technology for business model innovation and social impact. Also, I have been specifically studying the emergence of mobile payment platforms for more than 15 years.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Digital Business Models & Innovation
+  - Digital Disruption & IT Strategy
+  - Digital Platform & Ecosystem Strategy
+  - Mobile Payments & FinTech
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Information Systems
+      institution: University of Lausanne, HEC, Switzerland
+      year: 2007
+    - course: MSc in Information Systems
+      institution: University of Lausanne, HEC, Switzerland
+      year: 2003
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -53,19 +51,16 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/janondrus
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: http://scholar.google.com/citations?user=nlFH5o4AAAAJ&hl=en
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://sg.linkedin.com/in/ondrus
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -74,7 +69,7 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'ondrus@essec.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
