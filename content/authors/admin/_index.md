@@ -48,7 +48,7 @@ highlight_name: true
 first_name: Jan
 email: ondrus@essec.edu
 ---
-Jan Ondrus is Associate Professor of Information Systems and currently heading the [ESSEC Digital Disruption Chair](https://www.google.com/url?q=https%3A%2F%2Fdigital-disruption-chair.essec.edu%2F&sa=D&sntz=1&usg=AOvVaw1BSH92ECMG1uvO_Q0ZMqqf). He holds an MSc and a PhD in Information Systems from HEC Lausanne (University of Lausanne) in Switzerland. 
+Jan Ondrus is Associate Professor of Information Systems and currently heading the [ESSEC Digital Disruption Chair](https://www.google.com/url?q=https%3A%2F%2Fdigital-disruption-chair.essec.edu%2F&sa=D&sntz=1&usg=AOvVaw1BSH92ECMG1uvO_Q0ZMqqf). He holds an MSc and a PhD in Information Systems from HEC Lausanne (University of Lausanne) in Switzerland. t4
 {style="text-align: justify;"}
 
 His research examines the strategic role of information technology in the development of digital ecosystems. He is particularly interested in the disruptive and transformative aspects of digital technology for business model innovation and social impact. Also, he has been specifically studying the emergence of mobile payment platforms for more than 15 years. His research has been [published](https://www.janondrus.com/publications) in top academic journals, presented at major conferences, and actively used in his [teaching](https://www.janondrus.com/teaching) in the GMBA, the EMBA, and executive education programs at ESSEC. He has been [serving](https://www.janondrus.com/service) as an Associate Editor for academic journals such as the Information Systems Journal (2013-2018) and Electronic Commerce Research and Applications (2015-2020).
