@@ -2,6 +2,8 @@
 # Display name
 name: Jan Ondrus
 
+title: Jan Ondrus
+
 # Username (this should match the folder name)
 authors:
 - admin
