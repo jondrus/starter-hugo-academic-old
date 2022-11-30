@@ -1,8 +1,9 @@
 ---
-widget: home
-widget_id: my-widget-123
+widget: about
+widget_id: about
 headless: true
 weight: 10
+author: 'admin'
 active: true
 design:
   columns: "2"
